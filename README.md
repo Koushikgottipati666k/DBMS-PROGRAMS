@@ -2,7 +2,7 @@
 
 Experiment 1
 
-[Experiment 1](https://github.com/Koushikgottipati666k/DBMS-PROGRAMS/blob/main/Experiment1)
+[Experiment 1]
 
 ![1](https://user-images.githubusercontent.com/112752205/191890252-0e7f32e9-da2b-495f-b9b8-8279e47357b3.JPG)
 
