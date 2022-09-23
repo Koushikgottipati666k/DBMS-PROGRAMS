@@ -46,7 +46,7 @@ Experiment 4
 
 Experiment 5
 
-[Experiment 5](https://github.com/Koushikgottipati666k/DBMS-PROGRAMS/blob/main/Experiment5)
+[Experiment 5](https://github.com/Koushikgottipati666k/DBMS-PROGRAMS/blob/main/Experiment )
 
 ![image](https://user-images.githubusercontent.com/112752205/191891073-b048bc3f-d342-4c40-bedd-c95f3d756d54.png)
 
