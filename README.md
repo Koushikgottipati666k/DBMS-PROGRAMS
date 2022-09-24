@@ -174,6 +174,31 @@ Experiment 22
 
 ![image](https://user-images.githubusercontent.com/112752205/191894753-df36c64d-e742-4bbc-ae8b-4a3deae23cae.png)
 
+Experiment 23
+
+[Experiment 23](https://github.com/Koushikgottipati666k/DBMS-PROGRAMS/blob/main/Experiment%2023)
+
+![image](https://user-images.githubusercontent.com/112752205/192077344-814566b3-2fb1-4c78-a0cd-398753fbbed9.png)
+
+Experiment 24
+
+[Experiment 24](https://github.com/Koushikgottipati666k/DBMS-PROGRAMS/blob/main/Experiment%2024)
+
+![image](https://user-images.githubusercontent.com/112752205/192077355-b3d8a5e1-7b42-4f09-85d3-403313c30562.png)
+
+Experiment 25
+
+[Experiment 25](https://github.com/Koushikgottipati666k/DBMS-PROGRAMS/blob/main/Experiment%2025)
+
+![image](https://user-images.githubusercontent.com/112752205/192077391-2ac423ef-9a88-4ad9-81a0-827a27d48d62.png)
+
+![image](https://user-images.githubusercontent.com/112752205/192077396-155b93e5-71f7-4fd3-aa97-9e27afa66072.png)
+
+![image](https://user-images.githubusercontent.com/112752205/192077403-0f0b1b55-215f-4511-86ff-22feec1ed9fc.png)
+
+![image](https://user-images.githubusercontent.com/112752205/192077409-38da75ae-383d-4dc9-b8ea-e1d84945b821.png)
+
+![image](https://user-images.githubusercontent.com/112752205/192077418-6aef40a4-564f-4aad-8889-3dcc116f2604.png)
 
 
 
